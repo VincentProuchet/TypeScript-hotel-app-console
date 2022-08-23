@@ -1,0 +1,23 @@
+{
+  "name": "typescript-hotel-app-console",
+  "version": "1.0.0",
+  "description": "Rerpise du project hotel-web-api\r en version TypeScript",
+  "main": "intex.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentProuchet/TypeScript-hotel-app-console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentProuchet/TypeScript-hotel-app-console/issues"
+  },
+  "homepage": "https://github.com/VincentProuchet/TypeScript-hotel-app-console#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
